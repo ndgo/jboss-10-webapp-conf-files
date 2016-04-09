@@ -1,0 +1,4 @@
+<!DOCTYPE jboss-web>
+<jboss-web>
+    <context-root>my-service</context-root>
+</jboss-web>
